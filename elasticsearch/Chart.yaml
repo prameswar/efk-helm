@@ -1,0 +1,13 @@
+name: elasticsearch
+version: 0.0.1
+appVersion: 6.1.2
+description: Elasticsearch provides a distributed, multi tenant capable, full-text search engine with an HTTP web interface and schema-free JSON documents
+icon: https://raw.githubusercontent.com/elastic/kibana/master/src/ui/public/icons/elasticsearch-color.svg
+keywords:
+- elasticsearch
+maintainers:
+- name: prameswar lal
+  email: mymail
+sources:
+- https://github.com/elastic/elasticsearch
+engine: gotpl

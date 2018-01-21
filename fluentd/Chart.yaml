@@ -1,0 +1,10 @@
+name: fluentd
+version: 0.0.1
+appVersion: 
+description: fluentd is a logs collection daemon
+keywords:
+- fluentd
+maintainers:
+- name: prameswar lal
+  email: mymail
+
